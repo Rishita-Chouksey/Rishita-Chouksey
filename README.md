@@ -48,7 +48,7 @@
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: *www.linkedin.com/in/rishita-chouksey-471293334*
-- 📧 Email: *rishitachouksey4@gmail.cok*
+- 📧 Email: *rishitachouksey4@gmail.com*
 
 ---
 
