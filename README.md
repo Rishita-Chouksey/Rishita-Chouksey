@@ -67,6 +67,7 @@ Worked on deployment and backend API integration for a web-based AI solution.
 ## 📫 Connect With Me
 
 💼 LinkedIn: [www.linkedin.com/in/rishita-chouksey-471293334](http://www.linkedin.com/in/rishita-chouksey-471293334)
+
 📧 Email: [rishitachouksey4@gmail.com](mailto:rishitachouksey4@gmail.com)
 
 ---
