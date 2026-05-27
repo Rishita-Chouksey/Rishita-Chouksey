@@ -1,56 +1,76 @@
-## Hi there 👋 I’m Rishita Chouksey
+# Hi there 👋 I'm Rishita Chouksey
 
-🎓 2nd Year Mathematics & Computing student at **MITS Gwalior**  
-🌐 Aspiring **Frontend Web Developer**  
-🚀 Learning by building real, usable web applications
-
----
-
-### 🔭 Currently Working On
-- Frontend development using **HTML, CSS, JavaScript**
-- Improving UI design & layout skills
-- Integrating frontend with backend APIs
-- Building projects for hackathons & internships
+🎓 2nd Year Mathematics & Computing student at MITS Gwalior
+📊 Aspiring Data Science & AI Enthusiast
+🚀 Exploring data-driven problem solving, analytics, and intelligent systems
 
 ---
 
-### 🌱 Currently Learning
-- Advanced CSS (Flexbox, Grid, Responsive Design)
-- JavaScript (DOM, async concepts)
-- Frontend frameworks
-- Basics of backend & deployment (to support full-stack projects)
+## 🔭 Currently Working On
+
+* Data Science & Machine Learning fundamentals
+* Data cleaning, visualization, and exploratory data analysis
+* AI-based and analytics-driven projects
+* Strengthening problem-solving and coding skills
 
 ---
 
-### 🧠 Tech Stack
-**Frontend**
-- HTML, CSS
+## 🌱 Currently Learning
 
-**Tools & Platforms**
-- GitHub
-- Swagger (API testing)
-- Railway (deployment)
-
----
-
-### 🛠 Featured Projects
-- **MindMate – AI Mental Wellness Web App**  
-  Worked on deploying and integrating backend APIs for a web-based AI solution
-  
----
-
-### 👯 Looking to Collaborate On
-- Frontend / Web development projects
-- Beginner-friendly open source
-- Hackathon-based web apps
+* Python for Data Science
+* Pandas, NumPy & Matplotlib
+* SQL & Data Analysis
+* Machine Learning basics
+* Data Structures & Algorithms
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: *www.linkedin.com/in/rishita-chouksey-471293334*
-- 📧 Email: *rishitachouksey4@gmail.com*
+## 🧠 Tech Stack
+
+### Languages & Tools
+
+* Python
+* SQL
+* HTML, CSS
+* Git & GitHub
+
+### Data Science
+
+* Pandas
+* NumPy
+* Matplotlib
+* Data Cleaning & EDA
 
 ---
 
-### ⚡ Fun Fact
-I enjoy turning ideas into clean, user-friendly web interfaces more than anything else.
+## 🛠 Featured Projects
+
+### FuturePulse
+
+AI-driven project focused on building impactful and intelligent solutions through technology.
+
+### MindMate – AI Mental Wellness Web App
+
+Worked on deployment and backend API integration for a web-based AI solution.
+
+---
+
+## 👯 Looking to Collaborate On
+
+* Data Science & AI projects
+* Beginner-friendly Open Source
+* Analytics & visualization projects
+* Hackathons and innovative tech ideas
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/rishita-chouksey-471293334](http://www.linkedin.com/in/rishita-chouksey-471293334)
+📧 Email: [rishitachouksey4@gmail.com](mailto:rishitachouksey4@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy finding patterns in data and turning ideas into meaningful tech solutions.
