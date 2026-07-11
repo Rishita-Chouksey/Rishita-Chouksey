@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rishita Chouksey
 
-🎓 2nd Year Mathematics & Computing student at MITS Gwalior
+🎓 3rd Year Mathematics & Computing student at MITS Gwalior
 📊 Aspiring Data Science & AI Enthusiast
 🚀 Exploring data-driven problem solving, analytics, and intelligent systems
 
@@ -12,6 +12,11 @@
 * Data cleaning, visualization, and exploratory data analysis
 * AI-based and analytics-driven projects
 * Strengthening problem-solving and coding skills
+  
+---
+
+## Open Source Contribution
+* GSSOC 2026
 
 ---
 
@@ -44,10 +49,6 @@
 ---
 
 ## 🛠 Featured Projects
-
-### FuturePulse
-
-AI-driven project focused on building impactful and intelligent solutions through technology.
 
 ### MindMate – AI Mental Wellness Web App
 
