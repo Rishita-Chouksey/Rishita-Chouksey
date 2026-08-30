@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=105&section=header&text=Rishita%20Chouksey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=100&section=header&text=Rishita%20Chouksey&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### Mathematics & Computing · Data Science · AI/ML
+**Mathematics & Computing · Data Science · AI/ML**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
 
 <br>
 
@@ -235,7 +235,7 @@ Explore my repositories to see what I'm currently building.
 
 </div>
 
-I'm less interested in collecting technologies and more interested in **understanding them well enough to build something useful.**
+I'm interested in **understanding technologies well enough to build something useful.**
 
 ---
 
@@ -264,16 +264,12 @@ I'm less interested in collecting technologies and more interested in **understa
 
 **BUILD → BREAK → LEARN → BUILD AGAIN**
 
-I'm still figuring things out. That's kind of the point.
-
 <br>
 
 <a href="https://www.linkedin.com/in/rishita-chouksey-471293334">LinkedIn</a>
 &nbsp; · &nbsp;
 <a href="mailto:rishitachouksey4@gmail.com">Email</a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=45&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=90&section=footer" width="100%"/>
 
 </div>
