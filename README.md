@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=180&section=header&text=Rishita%20Chouksey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=150&section=header&text=Rishita%20Chouksey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### Mathematics & Computing · Data Science · AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
 
 <br>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ✦ About Me
+### ✦ About Me
 
 I'm a **3rd Year Mathematics & Computing student at MITS Gwalior**, exploring the intersection of **Data Science, Artificial Intelligence and problem solving**.
 
@@ -30,13 +30,13 @@ Currently, I'm going deeper into **Data Science, Machine Learning and AI**, whil
 
 ---
 
-## ⚡ What I'm Up To
+### ⚡ What I'm Up To
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Data Science
+**📊 Data Science**
 
 Data cleaning, exploratory analysis, visualization and finding meaningful patterns in data.
 
@@ -44,7 +44,7 @@ Data cleaning, exploratory analysis, visualization and finding meaningful patter
 
 <td width="50%">
 
-### 🤖 AI / ML
+**🤖 AI / ML**
 
 Exploring machine learning, NLP and practical AI applications.
 
@@ -54,7 +54,7 @@ Exploring machine learning, NLP and practical AI applications.
 <tr>
 <td width="50%">
 
-### 🧠 Problem Solving
+**🧠 Problem Solving**
 
 Strengthening DSA, programming fundamentals and analytical thinking.
 
@@ -62,7 +62,7 @@ Strengthening DSA, programming fundamentals and analytical thinking.
 
 <td width="50%">
 
-### 🌍 Open Source
+**🌍 Open Source**
 
 Contributing to open-source projects through **GSSoC 2026**.
 
@@ -72,17 +72,17 @@ Contributing to open-source projects through **GSSoC 2026**.
 
 ---
 
-# 🏆 A Highlight From The Build Journey
+### 🏆 A Highlight From The Build Journey
 
 <div align="center">
 
-### 🥈 1st Runner-Up — Black-Box Protocol Hackathon
+**🥈 1st Runner-Up — Black-Box Protocol Hackathon**
 
-**750+ Teams → Top 50 Finalists → 🥈 Podium**
+`750+ Teams` → `Top 50 Finalists` → `🥈 Podium`
 
 </div>
 
-### ⚖️ NyayaSarthi
+#### ⚖️ NyayaSarthi
 
 An AI-powered legal-tech project built with my team to explore how technology can make legal assistance more accessible.
 
@@ -90,20 +90,19 @@ An AI-powered legal-tech project built with my team to explore how technology ca
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
 <table>
 <tr>
-<td width="18%" align="center">
+<td width="15%" align="center">
 
-### 01
+**01**
 
 </td>
 <td>
 
-### Flyrank AI
-
-**AI/ML Intern** · `Jul 2026 — Present`
+**Flyrank AI**  
+AI/ML Intern · `Jul 2026 — Present`
 
 Working on AI/ML-focused tasks and gaining hands-on experience with applied machine learning and real-world problem solving.
 
@@ -111,16 +110,15 @@ Working on AI/ML-focused tasks and gaining hands-on experience with applied mach
 </tr>
 
 <tr>
-<td width="18%" align="center">
+<td width="15%" align="center">
 
-### 02
+**02**
 
 </td>
 <td>
 
-### InAmigos Foundation
-
-**AI Intern** · `Aug 27, 2026 — Present`
+**InAmigos Foundation**  
+AI Intern · `Aug 27, 2026 — Present`
 
 Working on practical AI applications and contributing to project-based development.
 
@@ -130,23 +128,24 @@ Working on practical AI applications and contributing to project-based developme
 
 ---
 
-# 🚀 Projects
+### 🚀 Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🧠 MindMate AI
+#### 🧠 MindMate AI
 
 **AI Mental Wellness Web App**
 
 An AI-powered conversational application combining AI and voice interaction.
 
 **My contribution**
-- Backend API integration
-- Deployment
-- External AI service integration
+
+• Backend API integration  
+• Deployment  
+• External AI service integration
 
 `Gemini` `ElevenLabs` `APIs` `AI`
 
@@ -154,7 +153,7 @@ An AI-powered conversational application combining AI and voice interaction.
 
 <td width="50%" valign="top">
 
-## ⚖️ NyayaSarthi
+#### ⚖️ NyayaSarthi
 
 **AI × Legal Technology**
 
@@ -172,7 +171,7 @@ A hackathon project exploring AI-assisted legal accessibility.
 
 <td width="50%" valign="top">
 
-## 📊 Excel Gradebook
+#### 📊 Excel Gradebook
 
 **Data & Analytics**
 
@@ -184,7 +183,7 @@ A student gradebook project exploring structured data handling and Excel-based a
 
 <td width="50%" valign="top">
 
-## 🧪 More Experiments
+#### 🧪 More Experiments
 
 I'm constantly experimenting with new ideas, technologies and problem statements.
 
@@ -197,49 +196,39 @@ Check out my repositories to see what I'm currently building.
 
 ---
 
-# 🌍 Open Source & Community
+### 🌍 Open Source & Community
 
-### GirlScript Summer of Code 2026
-
+**GirlScript Summer of Code 2026**  
 `Contributor` · `Campus Ambassador`
 
-Contributing, collaborating and learning through open source.
-
-### Community
-
-♟️ **Zapp Chess** — Campus Ambassador
-
-🎓 **Unlox Academy** — Campus Ambassador
+**Zapp Chess** · Campus Ambassador  
+**Unlox Academy** · Campus Ambassador
 
 ---
 
-# 🛠️ Tech I Work With
+### 🛠️ Tech I Work With
 
 <div align="center">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github" />
 
-<br><br>
-
-### Data Science & AI
-
-<img src="https://skillicons.dev/icons?i=python" />
-
 <br>
+
+**Data Science**
 
 `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `SQL`
 
-<br><br>
+<br>
 
-### Tools
+**Tools**
 
 `Jupyter Notebook` · `Tableau` · `Excel` · `MATLAB`
 
-<br><br>
+<br>
 
-### Core Areas
+**Core Areas**
 
 `Data Cleaning` · `EDA` · `Data Visualization` · `NLP` · `Machine Learning`
 
@@ -247,7 +236,7 @@ Contributing, collaborating and learning through open source.
 
 ---
 
-# 📚 Currently Learning
+### 📚 Currently Learning
 
 <div align="center">
 
@@ -259,17 +248,17 @@ I'm less interested in collecting technologies and more interested in **understa
 
 ---
 
-# 📈 GitHub Activity
+### 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishita-Chouksey&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishita-Chouksey&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="92%"/>
 
 </div>
 
 ---
 
-# 🎓 Certifications
+### 🎓 Certifications
 
 <div align="center">
 
@@ -280,8 +269,6 @@ I'm less interested in collecting technologies and more interested in **understa
 ---
 
 <div align="center">
-
-<br>
 
 ### `BUILD → BREAK → LEARN → BUILD AGAIN`
 
@@ -297,6 +284,6 @@ That's kind of the point.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=80&section=footer" width="100%"/>
 
 </div>
