@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=150&section=header&text=Rishita%20Chouksey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=105&section=header&text=Rishita%20Chouksey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### Mathematics & Computing · Data Science · AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
 
 <br>
 
@@ -20,17 +20,17 @@
 
 ---
 
-### ✦ About Me
+**✦ ABOUT ME**
 
 I'm a **3rd Year Mathematics & Computing student at MITS Gwalior**, exploring the intersection of **Data Science, Artificial Intelligence and problem solving**.
 
 I enjoy turning ideas into working projects — from experimenting with data to building AI-powered applications and competing in hackathons.
 
-Currently, I'm going deeper into **Data Science, Machine Learning and AI**, while continuing to contribute, build and learn in public.
+Currently going deeper into **Data Science, Machine Learning and AI**, while continuing to contribute, build and learn in public.
 
 ---
 
-### ⚡ What I'm Up To
+**⚡ WHAT I'M UP TO**
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ Contributing to open-source projects through **GSSoC 2026**.
 
 ---
 
-### 🏆 A Highlight From The Build Journey
+**🏆 A HIGHLIGHT FROM THE BUILD JOURNEY**
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Contributing to open-source projects through **GSSoC 2026**.
 
 </div>
 
-#### ⚖️ NyayaSarthi
+**⚖️ NyayaSarthi**
 
 An AI-powered legal-tech project built with my team to explore how technology can make legal assistance more accessible.
 
@@ -90,19 +90,19 @@ An AI-powered legal-tech project built with my team to explore how technology ca
 
 ---
 
-### 💼 Experience
+**💼 EXPERIENCE**
 
 <table>
 <tr>
-<td width="15%" align="center">
+<td width="12%" align="center">
 
-**01**
+`01`
 
 </td>
 <td>
 
-**Flyrank AI**  
-AI/ML Intern · `Jul 2026 — Present`
+**Flyrank AI** · AI/ML Intern  
+`Jul 2026 — Present`
 
 Working on AI/ML-focused tasks and gaining hands-on experience with applied machine learning and real-world problem solving.
 
@@ -110,15 +110,15 @@ Working on AI/ML-focused tasks and gaining hands-on experience with applied mach
 </tr>
 
 <tr>
-<td width="15%" align="center">
+<td width="12%" align="center">
 
-**02**
+`02`
 
 </td>
 <td>
 
-**InAmigos Foundation**  
-AI Intern · `Aug 27, 2026 — Present`
+**InAmigos Foundation** · AI Intern  
+`Aug 27, 2026 — Present`
 
 Working on practical AI applications and contributing to project-based development.
 
@@ -128,34 +128,33 @@ Working on practical AI applications and contributing to project-based developme
 
 ---
 
-### 🚀 Projects
+**🚀 PROJECTS**
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-#### 🧠 MindMate AI
+**🧠 MindMate AI**
 
-**AI Mental Wellness Web App**
+*AI Mental Wellness Web App*
 
 An AI-powered conversational application combining AI and voice interaction.
 
 **My contribution**
+- Backend API integration
+- Deployment
+- External AI service integration
 
-• Backend API integration  
-• Deployment  
-• External AI service integration
-
-`Gemini` `ElevenLabs` `APIs` `AI`
+`Gemini` `ElevenLabs` `APIs`
 
 </td>
 
 <td width="50%" valign="top">
 
-#### ⚖️ NyayaSarthi
+**⚖️ NyayaSarthi**
 
-**AI × Legal Technology**
+*AI × Legal Technology*
 
 A hackathon project exploring AI-assisted legal accessibility.
 
@@ -171,9 +170,9 @@ A hackathon project exploring AI-assisted legal accessibility.
 
 <td width="50%" valign="top">
 
-#### 📊 Excel Gradebook
+**📊 Excel Gradebook**
 
-**Data & Analytics**
+*Data & Analytics*
 
 A student gradebook project exploring structured data handling and Excel-based analysis.
 
@@ -183,11 +182,11 @@ A student gradebook project exploring structured data handling and Excel-based a
 
 <td width="50%" valign="top">
 
-#### 🧪 More Experiments
+**🧪 More Experiments**
 
-I'm constantly experimenting with new ideas, technologies and problem statements.
+Constantly experimenting with new ideas, technologies and problem statements.
 
-Check out my repositories to see what I'm currently building.
+Explore my repositories to see what I'm currently building.
 
 </td>
 
@@ -196,39 +195,31 @@ Check out my repositories to see what I'm currently building.
 
 ---
 
-### 🌍 Open Source & Community
+**🌍 OPEN SOURCE & COMMUNITY**
 
 **GirlScript Summer of Code 2026**  
 `Contributor` · `Campus Ambassador`
 
-**Zapp Chess** · Campus Ambassador  
-**Unlox Academy** · Campus Ambassador
+♟️ **Zapp Chess** · Campus Ambassador  
+🎓 **Unlox Academy** · Campus Ambassador
 
 ---
 
-### 🛠️ Tech I Work With
+**🛠️ TECH I WORK WITH**
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github"/>
 
 <br>
-
-**Data Science**
 
 `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `SQL`
 
 <br>
 
-**Tools**
-
 `Jupyter Notebook` · `Tableau` · `Excel` · `MATLAB`
 
 <br>
-
-**Core Areas**
 
 `Data Cleaning` · `EDA` · `Data Visualization` · `NLP` · `Machine Learning`
 
@@ -236,11 +227,11 @@ Check out my repositories to see what I'm currently building.
 
 ---
 
-### 📚 Currently Learning
+**📚 CURRENTLY LEARNING**
 
 <div align="center">
 
-`DATA SCIENCE` &nbsp; `MACHINE LEARNING` &nbsp; `AI / NLP` &nbsp; `DSA`
+`DATA SCIENCE` · `MACHINE LEARNING` · `AI / NLP` · `DSA`
 
 </div>
 
@@ -248,21 +239,22 @@ I'm less interested in collecting technologies and more interested in **understa
 
 ---
 
-### 📈 GitHub Activity
+**📈 GITHUB ACTIVITY**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishita-Chouksey&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="92%"/>
+<img src="./profile/stats.svg" width="48%"/>
+<img src="./profile/top-langs.svg" width="40%"/>
 
 </div>
 
 ---
 
-### 🎓 Certifications
+**🎓 CERTIFICATIONS**
 
 <div align="center">
 
-`AWS Fundamentals of AI/ML` &nbsp;&nbsp; `Claude Certification`
+`AWS Fundamentals of AI/ML` · `Claude Certification`
 
 </div>
 
@@ -270,11 +262,9 @@ I'm less interested in collecting technologies and more interested in **understa
 
 <div align="center">
 
-### `BUILD → BREAK → LEARN → BUILD AGAIN`
+**BUILD → BREAK → LEARN → BUILD AGAIN**
 
-I'm still figuring things out.
-
-That's kind of the point.
+I'm still figuring things out. That's kind of the point.
 
 <br>
 
@@ -284,6 +274,6 @@ That's kind of the point.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=45&section=footer" width="100%"/>
 
 </div>
