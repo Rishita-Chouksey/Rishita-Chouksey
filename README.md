@@ -1,163 +1,211 @@
 <div align="center">
 
-# RISHITA CHOUKSEY
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=180&section=header&text=Rishita%20Chouksey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-### `DATA × AI × PROBLEM SOLVING`
+### Mathematics & Computing · Data Science · AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=turning+ideas+into+experiments.;exploring+AI%2C+ML+%26+data.;learning+by+building.;still+curious.+still+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+with+data.;Exploring+AI+%26+Machine+Learning.;Learning+by+building+real+things.;Always+looking+for+the+next+problem+to+solve." />
 
-<p>
-  <a href="https://www.linkedin.com/in/rishita-chouksey-471293334">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:rishitachouksey4@gmail.com">Email</a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/rishita-chouksey-471293334">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rishitachouksey4@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## `About Me`
+## ✦ About Me
 
-🎓 **3rd Year Mathematics & Computing student @ MITS Gwalior**
+I'm a **3rd Year Mathematics & Computing student at MITS Gwalior**, exploring the intersection of **Data Science, Artificial Intelligence and problem solving**.
 
-I'm exploring the intersection of **Data Science, Artificial Intelligence and problem solving**.
+I enjoy turning ideas into working projects — from experimenting with data to building AI-powered applications and competing in hackathons.
 
-I enjoy taking an idea, breaking down the problem, learning what I need along the way, and turning it into something real.
-
-Currently going deeper into **Data Science, Machine Learning and AI** — while continuing to build, experiment, contribute and compete.
+Currently, I'm going deeper into **Data Science, Machine Learning and AI**, while continuing to contribute, build and learn in public.
 
 ---
 
-## `Currently.exe`
+## ⚡ What I'm Up To
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   📊  DATA SCIENCE                                       │
-│       Data Cleaning • EDA • Visualization • Analytics    │
-│                                                          │
-│   🤖  AI / ML                                             │
-│       Machine Learning • NLP • Intelligent Systems       │
-│                                                          │
-│   🧠  PROBLEM SOLVING                                    │
-│       DSA • Coding • Learning by Building                │
-│                                                          │
-│   🌍  OPEN SOURCE                                        │
-│       GSSoC 2026                                         │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%">
 
----
+### 📊 Data Science
 
-# `Build.log`
+Data cleaning, exploratory analysis, visualization and finding meaningful patterns in data.
 
-```text
-2026
+</td>
 
-├── 🤖 AI/ML Internship
-│
-├── 🌍 GSSoC 2026
-│
-├── ⚖️ NyayaSarthi
-│
-├── 🥈 Black-Box Protocol Hackathon
-│
-├── 🧠 MindMate
-│
-└── 📊 Deeper into Data Science
-```
+<td width="50%">
 
----
+### 🤖 AI / ML
 
-# `Missions.completed`
+Exploring machine learning, NLP and practical AI applications.
 
-## 🥈 Black-Box Protocol Hackathon
+</td>
+</tr>
 
-### `NYAYASARTHI`
+<tr>
+<td width="50%">
 
-**1st Runner-Up · 750+ teams**
+### 🧠 Problem Solving
 
-```text
-750+ TEAMS
-     │
-     ▼
-TOP 50 FINALISTS
-     │
-     ▼
-🥈 1ST RUNNER-UP
-     │
-     ▼
-NYAYASARTHI
-```
+Strengthening DSA, programming fundamentals and analytical thinking.
 
-An AI-powered legal-tech solution built with my team to explore how AI can make legal assistance more accessible.
+</td>
+
+<td width="50%">
+
+### 🌍 Open Source
+
+Contributing to open-source projects through **GSSoC 2026**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `Experience.log`
+# 🏆 A Highlight From The Build Journey
 
-### 🤖 Flyrank AI
+<div align="center">
+
+### 🥈 1st Runner-Up — Black-Box Protocol Hackathon
+
+**750+ Teams → Top 50 Finalists → 🥈 Podium**
+
+</div>
+
+### ⚖️ NyayaSarthi
+
+An AI-powered legal-tech project built with my team to explore how technology can make legal assistance more accessible.
+
+**Result:** `1st Runner-Up`
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="18%" align="center">
+
+### 01
+
+</td>
+<td>
+
+### Flyrank AI
 
 **AI/ML Intern** · `Jul 2026 — Present`
 
-Working on AI/ML-focused tasks and gaining hands-on experience with real-world problem solving and applied machine learning.
+Working on AI/ML-focused tasks and gaining hands-on experience with applied machine learning and real-world problem solving.
 
----
+</td>
+</tr>
 
-### 🧠 InAmigos Foundation
+<tr>
+<td width="18%" align="center">
+
+### 02
+
+</td>
+<td>
+
+### InAmigos Foundation
 
 **AI Intern** · `Aug 27, 2026 — Present`
 
 Working on practical AI applications and contributing to project-based development.
 
+</td>
+</tr>
+</table>
+
 ---
 
-# `Things.i.built`
+# 🚀 Projects
 
-### 🧠 MindMate AI
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 MindMate AI
 
 **AI Mental Wellness Web App**
 
-An AI-powered conversational web application combining AI and voice interaction.
+An AI-powered conversational application combining AI and voice interaction.
 
-**My contribution:** Backend API integration, deployment and integration of external AI services.
+**My contribution**
+- Backend API integration
+- Deployment
+- External AI service integration
 
 `Gemini` `ElevenLabs` `APIs` `AI`
 
----
+</td>
 
-### ⚖️ NyayaSarthi
+<td width="50%" valign="top">
+
+## ⚖️ NyayaSarthi
 
 **AI × Legal Technology**
 
-A hackathon project exploring how AI can make legal assistance more accessible.
+A hackathon project exploring AI-assisted legal accessibility.
 
-🏆 **1st Runner-Up — Black-Box Protocol Hackathon**
+🏆 **1st Runner-Up**
 
----
+`AI` `LegalTech` `Hackathon`
 
-### 📊 Excel Gradebook
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Excel Gradebook
 
 **Data & Analytics**
 
-A student gradebook project built using Excel functions and structured data handling.
+A student gradebook project exploring structured data handling and Excel-based analysis.
 
-`Excel` `Data Analysis`
+`Excel` `Data`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 More Experiments
+
+I'm constantly experimenting with new ideas, technologies and problem statements.
+
+Check out my repositories to see what I'm currently building.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `Open.source`
+# 🌍 Open Source & Community
 
-### 🌍 GirlScript Summer of Code 2026
+### GirlScript Summer of Code 2026
 
 `Contributor` · `Campus Ambassador`
 
-Contributing, collaborating and learning through the open-source ecosystem.
+Contributing, collaborating and learning through open source.
 
----
-
-# `Community.log`
+### Community
 
 ♟️ **Zapp Chess** — Campus Ambassador
 
@@ -165,96 +213,90 @@ Contributing, collaborating and learning through the open-source ecosystem.
 
 ---
 
-# `Toolkit`
+# 🛠️ Tech I Work With
+
+<div align="center">
 
 ### Languages
 
-`Python` · `C++` · `SQL` · `HTML` · `CSS`
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github" />
 
-### Data Science
+<br><br>
 
-`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
+### Data Science & AI
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `SQL`
+
+<br><br>
+
+### Tools
+
+`Jupyter Notebook` · `Tableau` · `Excel` · `MATLAB`
+
+<br><br>
 
 ### Core Areas
 
 `Data Cleaning` · `EDA` · `Data Visualization` · `NLP` · `Machine Learning`
 
-### Tools
-
-`Git` · `GitHub` · `Jupyter Notebook` · `Tableau` · `Excel` · `MATLAB`
+</div>
 
 ---
 
-# `Learning.queue`
-
-```text
-DATA SCIENCE        ███████████████░░░░░
-MACHINE LEARNING    ██████████████░░░░░░
-AI / NLP            █████████████░░░░░░░
-DSA                 ████████████░░░░░░░░
-BUILDING            ████████████████████
-```
-
-*No percentages. No finish line.*
-
----
-
-# `Activity.log`
+# 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishita-Chouksey&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishita-Chouksey&layout=compact&hide_border=true&langs_count=8" height="170"/>
+`DATA SCIENCE` &nbsp; `MACHINE LEARNING` &nbsp; `AI / NLP` &nbsp; `DSA`
 
 </div>
+
+I'm less interested in collecting technologies and more interested in **understanding them well enough to build something useful.**
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishita-Chouksey&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🎓 Certifications
+
+<div align="center">
+
+`AWS Fundamentals of AI/ML` &nbsp;&nbsp; `Claude Certification`
+
+</div>
+
+---
+
+<div align="center">
 
 <br>
 
-<div align="center">
+### `BUILD → BREAK → LEARN → BUILD AGAIN`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishita-Chouksey&hide_border=true" />
+I'm still figuring things out.
 
-</div>
-
----
-
-# `Contribution.universe`
-
-<div align="center">
-
-### `THE CODE KEEPS MOVING.`
-
-<img src="https://raw.githubusercontent.com/Rishita-Chouksey/Rishita-Chouksey/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# `Certified`
-
-🎓 **AWS Fundamentals of AI/ML**
-
-🤖 **Claude Certification**
-
-> Certifications show what I've learned.
-> Projects show what I can build.
-
----
-
-<div align="center">
-
-## `STATUS: STILL BUILDING_`
-
-### ideas → experiments → projects → lessons → repeat.
+That's kind of the point.
 
 <br>
 
 <a href="https://www.linkedin.com/in/rishita-chouksey-471293334">LinkedIn</a>
-  •   <a href="mailto:rishitachouksey4@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="mailto:rishitachouksey4@gmail.com">Email</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Rishita-Chouksey&label=PROFILE+VIEWS&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
