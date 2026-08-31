@@ -266,9 +266,19 @@ I'm interested in **understanding technologies well enough to build something us
 
 <br>
 
-<a href="https://www.linkedin.com/in/rishita-chouksey-471293334">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:rishitachouksey4@gmail.com">Email</a>
+<a href="https://rishita-data-universe.vercel.app/">
+  <img src="https://img.shields.io/badge/🌌%20Portfolio-ENTER%20THE%20UNIVERSE-7C3AED?style=for-the-badge&labelColor=111827"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rishita-chouksey-471293334">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rishitachouksey4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=90&section=footer" width="100%"/>
 
